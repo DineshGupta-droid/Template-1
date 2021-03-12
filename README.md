@@ -1,4 +1,3 @@
-#![instagram1](https://user-images.githubusercontent.com/55830977/110955610-c84c8a80-836f-11eb-93b6-198c3790613f.jpg)
 # Template-1
 <DOCTYPE html>
 <html>
